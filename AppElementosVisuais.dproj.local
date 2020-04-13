@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/02/16 14:45:13.299,=E:\Unit1.pas</Transaction>
+    <Transaction>2020/02/16 14:46:39.766,C:\Users\guilh\Desktop\Delphi\UfrmPrincipal.pas=E:\Unit1.pas</Transaction>
+    <Transaction>2020/02/16 14:46:39.766,C:\Users\guilh\Desktop\Delphi\UfrmPrincipal.dfm=E:\Unit1.dfm</Transaction>
+    <Transaction>2020/02/16 14:46:50.506,C:\Users\guilh\Desktop\Delphi\AppElementosVisuais.dproj=E:\Project1.dproj</Transaction>
+    <Transaction>2020/02/16 17:48:31.910,=C:\Users\guilh\Desktop\Delphi\Unit1.pas</Transaction>
+    <Transaction>2020/02/16 17:49:19.225,C:\Users\guilh\Desktop\Delphi\uFrmDataHora.dfm=C:\Users\guilh\Desktop\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2020/02/16 17:49:19.225,C:\Users\guilh\Desktop\Delphi\uFrmDataHora.pas=C:\Users\guilh\Desktop\Delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
